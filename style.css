@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo:400,700&subset=arabic');
+.card{
+width: 350px;
+border: 10px solid #446eac;
+min-height: 200px;
+padding: 10px;
+margin: 10px;
+}
+
+img{
+  border-radius: 50%;
+  width: 70px;
+  margin:10px 77% ;
+
+}
+
+h1{
+  margin-left: 100px;
+  margin-top: -80px;
+  font-size: 1.8em;
+}
+
+p{
+  margin: 10px;
+  font-family: segoe ui;
+  line-height: 1.4em;
+  font-size: 1.0em;
+  text-align: right;
+  font-family: 'cairo', serif;
+}
+
+#mainbox{
+  font-family: 'cairo', serif;
+  box-sizing: border-box;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+#btn1{
+    background-color: #446eac;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  width: 100%;
+}
