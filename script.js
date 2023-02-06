@@ -11,7 +11,6 @@ class item{
 
         let input = document.createElement('input');
         input.value= itemName;
-        input.disabled = true;
         input.classList.add('item_input')
         input.type= "text";
 
